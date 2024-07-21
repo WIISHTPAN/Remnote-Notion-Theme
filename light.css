@@ -25,7 +25,8 @@
 .rn-text-label-small,
 .rn-clr-background-primary,
 .rn-clr-border-opaque,
-.rn-clr-content-primary.h-full.bg-transparent.w-full.text-base.leading-6:hover {
+.rn-clr-content-primary.h-full.bg-transparent.w-full.text-base.leading-6:hover,
+.rn-quote-content {
     background: #fffffc;
 }
 /*背景色*/
