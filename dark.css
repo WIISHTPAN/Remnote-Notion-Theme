@@ -1,0 +1,124 @@
+::selection {
+    background: #153756;
+}
+
+/*高亮*/
+.rn-document-sidebar__top-link:hover,
+.rn-search-button:hover,
+.rn-clr-background-light-accent,
+.rn-clr-background-light-accent:hover,
+.flex.items-center.box-border.px-1:hover,
+.rn-account-capsule:hover,
+.rn-sidebar-counter:hover,
+.rn-account-capsule:hover,
+.rounded-md.bg-gray-5,
+.rounded-lg.flex.flex-row.items-center.cursor-pointer.select-none.p-2:hover,
+.flex.items-center.w-full.rounded-md.h-8:hover,
+.rn-sidebar-add-button:hover,
+.rn-clr-content-primary.bg-transparent:hover {
+    background: #2c2c2c;
+}
+
+/*正常色*/
+.rn-document-wrapper,
+.rn-checkbox--unchecked,
+.rn-all-notes,
+.rn-sticky-header,
+.rn-text-label-small,
+.rn-clr-background-primary,
+.rn-clr-border-opaque,
+.rn-clr-content-primary.h-full.bg-transparent.w-full.text-base.leading-6:hover {
+    background: #191919;
+}
+
+/*背景色*/
+.rn-sidebar,
+.rn-card-delimiter,
+.rn-search-button,
+.rounded.flex.flex-row.items-center.px-2.gap-1.w-max,
+.queue__badge.rn-queue__card-counter.bg-gray-10,
+.flex.items-center.rn-clr-content-primary.text-sm.rounded-b-lg,
+.flex.flex-row.justify-between.select-none.w-full.rn-clr-background-secondary,
+.grid.grid-cols-10.items-center.bg-gray-5.text-sm.font-medium,
+.rn-queue-rem.basic_card_rem_type.rem-bullet__document {
+    background: #202020 !important;
+}
+
+.fill-in-the-blank.rn-fill-in-blank.rn-fill-in-blank--unrevealed {
+    background: #202020;
+    color: #d4d4d2;
+}
+
+/* 白色 */
+.rn-clr-background-light-accent,
+.rn-clr-background-light-accent:hover,
+.rn-bullet-container,
+.rn-editor__rem,
+.rn-doc-title,
+.rem-text,
+.rem-text.rem-header--1,
+.rem-text.rem-header--2,
+.rem-text.rem-header--3,
+.rn-text-paragraph-medium,
+.rn-sidebar-add-button,
+#main #content #document-sidebar {
+    color: #d4d4d2;
+}
+
+/*按钮*/
+.rn-button--Primary,
+.rn-checkbox--checked {
+    background: #0083ff;
+}
+
+.rn-button--Primary:hover {
+    background: #0077ea;
+}
+
+/*code*/
+.rn-editor__rem__body__text.relative div {
+    background: #202020 !important;
+}
+
+/*copy*/
+.rn-code-node__copy-button {
+    background: #202020;
+}
+
+.rn-code-node__copy-button:hover {
+    background: #202020;
+}
+
+/* 记忆卡片 */
+.rn-queue__answer-btn--too-soon {
+    background: #373735;
+    color: #d8d8d4;
+}
+
+.rn-queue__answer-btn--forgotten {
+    background: #a43615;
+    color: #ecd8cd;
+}
+
+.rn-queue__answer-btn--partial {
+    background: #946319;
+    color: #e8dcc3;
+}
+
+.rn-queue__answer-btn--with-effort {
+    background: #1d4577;
+    color: #cad4db;
+}
+
+.rn-queue__answer-btn--immediately {
+    background: #005954;
+    color: #c9ded9;
+}
+
+/* 灰色图案颜色 */
+.six-dot,
+.text-gray-15,
+.toggle-collapse-button {
+    background: #191919;
+    color: #5a5a58;
+}
