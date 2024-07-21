@@ -1,0 +1,108 @@
+::selection {
+    background: #b4dcfe;
+}
+/*高亮*/
+.rn-document-sidebar__top-link:hover,
+.rn-search-button:hover,
+.rn-clr-background-light-accent,
+.rn-clr-background-light-accent:hover,
+.flex.items-center.box-border.px-1:hover,
+.rn-account-capsule:hover,
+.rn-sidebar-counter:hover,
+.rn-account-capsule:hover,
+.rounded-md.bg-gray-5,
+.rounded-lg.flex.flex-row.items-center.cursor-pointer.select-none.p-2:hover,
+.flex.items-center.w-full.rounded-md.h-8:hover,
+.rn-sidebar-add-button:hover,
+.rn-clr-content-primary.bg-transparent:hover {
+    background: #efefea;
+}
+/*正常色*/
+.rn-document-wrapper,
+.rn-checkbox--unchecked,
+.rn-all-notes,
+.rn-sticky-header,
+.rn-text-label-small,
+.rn-clr-background-primary,
+.rn-clr-border-opaque,
+.rn-clr-content-primary.h-full.bg-transparent.w-full.text-base.leading-6:hover {
+    background: #fffffc;
+}
+/*背景色*/
+.rn-sidebar,
+.rn-card-delimiter,
+.rn-search-button,
+.rounded.flex.flex-row.items-center.px-2.gap-1.w-max,
+.queue__badge.rn-queue__card-counter.bg-gray-10,
+.flex.items-center.rn-clr-content-primary.text-sm.rounded-b-lg,
+.flex.flex-row.justify-between.select-none.w-full.rn-clr-background-secondary,
+.grid.grid-cols-10.items-center.bg-gray-5.text-sm.font-medium,
+.rn-queue-rem.basic_card_rem_type.rem-bullet__document {
+    background: #f7f7f2 !important;
+}
+.fill-in-the-blank.rn-fill-in-blank.rn-fill-in-blank--unrevealed {
+    background: #f7f7f2;
+    color: #37352e;
+}
+/* 黑色 */
+.rn-clr-background-light-accent,
+.rn-clr-background-light-accent:hover,
+.rn-bullet-container,
+.rn-editor__rem,
+.rn-doc-title,
+.rem-text,
+.rem-text.rem-header--1,
+.rem-text.rem-header--2,
+.rem-text.rem-header--3,
+.rn-text-paragraph-medium,
+.rn-sidebar-add-button,
+#main #content #document-sidebar {
+    color: #37352d;
+}
+/*按钮*/
+.rn-button--Primary,
+.rn-checkbox--checked {
+    background: #0c83f3;
+}
+.rn-button--Primary:hover {
+    background: #0077ea;
+}
+/*code*/
+.rn-editor__rem__body__text.relative div {
+    background: #f7f6f0 !important;
+}
+
+/*copy*/
+.rn-code-node__copy-button {
+    background: #f7f6f0;
+}
+.rn-code-node__copy-button:hover {
+    background: #f7f6f0;
+}
+
+/* 记忆卡片 */
+.rn-queue__answer-btn--too-soon {
+    background: #f1f0e9;
+    color: #32302a;
+}
+.rn-queue__answer-btn--forgotten {
+    background: #ffe2cd;
+    color: #a41700;
+}
+.rn-queue__answer-btn--partial {
+    background: #feecbc;
+    color: #4c2c12;
+}
+.rn-queue__answer-btn--with-effort {
+    background: #c5e5f2;
+    color: #063352;
+}
+.rn-queue__answer-btn--immediately {
+    background: #c0eddf;
+    color: #003836;
+}
+/* 灰色图案颜色 */
+.six-dot, .text-gray-15, .toggle-collapse-button {
+    background: #fffffc;
+    color: #b9b8b2;
+}
